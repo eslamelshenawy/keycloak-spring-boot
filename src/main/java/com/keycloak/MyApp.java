@@ -1,4 +1,4 @@
-package de.claudioaltamura.keycloak.springboot.rest.example;
+package com.keycloak;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

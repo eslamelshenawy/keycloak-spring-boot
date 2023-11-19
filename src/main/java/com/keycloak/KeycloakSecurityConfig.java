@@ -1,4 +1,4 @@
-package de.claudioaltamura.keycloak.springboot.rest.example;
+package com.keycloak;
 
 import org.keycloak.adapters.springsecurity.authentication.KeycloakAuthenticationProvider;
 import org.springframework.beans.factory.annotation.Autowired;

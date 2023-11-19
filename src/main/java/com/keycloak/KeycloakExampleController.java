@@ -1,4 +1,4 @@
-package de.claudioaltamura.keycloak.springboot.rest.example;
+package com.keycloak;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
